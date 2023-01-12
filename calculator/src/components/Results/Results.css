@@ -1,0 +1,28 @@
+div {
+    grid-column: span 4;
+    background-color: rgba(0, 0, 0, 0.808) ;
+    min-height: 10vh;
+    /* background-color: red; */
+}
+
+h4 {
+    color: rgb(136, 136, 136);
+    /* padding: 5vh 1vh; */
+    text-align: right;
+    font-size: 1.5em;
+    padding: 1vh 1vh;
+    margin: 0px;
+    overflow: auto;
+    min-height: 1.5em;
+}
+
+h3 {
+    
+    color: white;
+    padding: 5vh 1vh;
+    text-align: right;
+    font-size: 2.5em;
+    min-height: 1.5em;
+    margin: 0px;
+    word-wrap: break-word;
+}

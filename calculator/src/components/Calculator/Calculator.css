@@ -1,0 +1,11 @@
+.calculator {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgba(240, 248, 255, 0);
+
+    /* border: 0.5em solid rgba(255, 255, 255, 0.351); */
+    
+}
+
+
+
