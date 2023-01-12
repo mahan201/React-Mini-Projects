@@ -5,8 +5,8 @@ import './Calculator.css'
 
 const Calculator = props => {
 
-    const [result, setResult] = useState("100000")
-    const [prevResult, setPrevResult] = useState("50 * ")
+    const [result, setResult] = useState("0")
+    const [prevResult, setPrevResult] = useState("")
     const [reset, setReset] = useState(true);
 
     const operation = (operand) => () => {
